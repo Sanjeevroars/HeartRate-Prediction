@@ -29,7 +29,7 @@ pip install -r requirements.txt
 python3 run.py <path_to_input_file>
 ```
 
-### Note: The output will be stored in the cloned repository as 'results.csv'.
+#### Note: The output will be stored in the cloned repository as 'results.csv'.
 
 ## File Description
 - `run.py` - The CLI for the project.
@@ -43,4 +43,4 @@ python3 run.py <path_to_input_file>
 - `sample_output_generated.csv` - The sample output generated for the sample test dataset.
 - `Report.pdf` - The report for the project.
 
-### Note: The `results.csv` file is not included in the repository as it is generated after running the CLI.
+#### Note: The `results.csv` file is not included in the repository as it is generated after running the CLI.
